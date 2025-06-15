@@ -6,7 +6,8 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=400&lines=I+build+real-world+apps+%F0%9F%9A%80;I'm+crafting+the+best+portfolio+ever+%F0%9F%94%A5" alt="Typing SVG line 1" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&center=true&vCenter=true&width=380&lines=Privacy+first.+Design+obsessed.+Code+driven." alt="Typing SVG line 2" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&center=true&vCenter=true&width=400&lines=Privacy+first.+Design+obsessed." alt="Typing SVG line 2a" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1800&center=true&vCenter=true&width=400&lines=Code+driven.+Always+shipping+%F0%9F%9A%80" alt="Typing SVG line 2b" />
 </p>
 
 ---
