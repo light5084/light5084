@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=430&lines=I+build+real-world+apps+%F0%9F%9A%80;I'm+crafting+the+best+portfolio+ever+%F0%9F%94%A5;Privacy+first.+Design+obsessed.;Code+driven.+Always+shipping+%F0%9F%9A%80" alt="Typing animation" />
 </p>
----
+
 
 ## 🧠 About Me
 
